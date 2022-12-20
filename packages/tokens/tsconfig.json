@@ -1,0 +1,6 @@
+{
+  "extends": "@repo-dash/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}

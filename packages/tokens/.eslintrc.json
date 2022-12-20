@@ -1,0 +1,3 @@
+{
+  "extends": "@repo-dash/eslint-config"
+}
